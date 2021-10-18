@@ -1,4 +1,4 @@
-<h1 align="center">Opa! Bem-vindos ao meu perfil! 😎</h1>
+## Opa! Bem-vindos ao meu perfil! 😎
 
 
 <div align="center" style="display: inline_block"><br>
@@ -11,6 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edervenancio&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edervenancio&layout=compact&langs_count=7&theme=radical"/>
 </div>
+   
+   
   <h3 align="center"> Estudando e aprendendo </h3>
   <div align="center"><br>
    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
